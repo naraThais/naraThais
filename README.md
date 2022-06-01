@@ -1,4 +1,5 @@
-## Oiii eu sou a Thais Nara, sou Dev back-end! Sejam todos bem vindos.
+## Oiii eu sou a Thais Nara, sou Dev back-end!
+Atualmente atuo como desenvolvedora de sistemas industriais e como tester na Grendene S/A. 
 ##
 <div align="center">
   <a href="https://github.com/naraThais">
