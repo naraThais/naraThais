@@ -3,8 +3,8 @@ Atualmente atuo como desenvolvedora de sistemas industriais e tester na Grendene
 ##
 <div align="center">
   <a href="https://github.com/naraThais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narathais&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narathais&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naraThais&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraThais&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
