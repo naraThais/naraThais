@@ -1,5 +1,5 @@
-## Oiii eu sou a Thais Nara, sou Dev back-end!
-Atualmente atuo como desenvolvedora de sistemas industriais e tester na Grendene S/A. 
+## Oiii eu sou a Thais Nara, sou Dev Full Stack!
+Atualmente atuo como desenvolvedora de software. 
 ##
 <div align="center">
   <a href="https://github.com/naraThais">
