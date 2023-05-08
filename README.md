@@ -1,5 +1,5 @@
-## Oiii eu sou a Thais Nara, sou Dev Full Stack!
-Atualmente atuo como desenvolvedora de software. 
+## Hello, i'm Thais Nara, i'm a software developer!
+
 ##
 <div align="center">
   <a href="https://github.com/naraThais">
