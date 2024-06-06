@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
-Desenvolvedora Full Stack apaixonada por novidades, com mais de 3 anos de experiência em desenvolvimento de software e web desde os 18 anos. Especializada em integração e automação de dados
+Desenvolvedora Full Stack apaixonada por novidades, com mais de 3 anos de experiência em desenvolvimento de software e web. Especializada em integração e automação de dados
 
 Estou atualmente empolgada em aprender sobre o universo Multicloud, além disso, saindo um pouco fora da curva, estou também aprendendo conceitualmente sobre UI/UX Design, pois quero aprimorar minhas técnicas no front-end.
 Estou aberta a novas oportunidades e sempre fui ativa quando se trata de aprender novas tecnologias e habilidades.
