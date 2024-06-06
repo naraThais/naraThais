@@ -9,10 +9,6 @@ Estou aberta a novas oportunidades e sempre fui ativa quando se trata de aprende
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#, Java, JavaScript, Python
-</p>
-
-<p align="left">
-  💼 Ferramentas: React, Node, Spring
+  Techs: C#, Java, JavaScript, Python,  React, Node, Spring
 </p>
 
