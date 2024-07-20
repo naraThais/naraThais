@@ -10,6 +10,15 @@
         <br><br>
        <img src="https://github.com/user-attachments/assets/0d71bfac-7107-437a-9784-7071930a39c1" style="height: 216px;" />
   <img src="https://github.com/user-attachments/assets/bfe89176-0082-4c69-b5f5-1bed7a889dce" style="height: 30%; width: 30%; " />  
-  <br>
-  -----------------------------------maintenance------------------------------------------
+    <br><br>
+  <p align="right"; >
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 </p>
