@@ -13,7 +13,7 @@
   <img src="https://github.com/user-attachments/assets/bfe89176-0082-4c69-b5f5-1bed7a889dce" style="height: 30%; width: 30%; " />  
     <br><br>
   <p align="right"; >
-  <a href="#" title="Gmail">
+  <a href="mailto:thaisna46@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thaisna46@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
