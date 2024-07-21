@@ -53,7 +53,10 @@
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-
+    <br><br>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=c790f1&line=8d65c5&point=e0d5e2&area=true&hide_border=true" alt="Ashutosh's github activity graph" />
+</a>
 
 
   <p align="right" >
