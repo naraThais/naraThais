@@ -59,13 +59,13 @@
 </a>
 
 
-  <p align="right" >
+  <p align="center" >
       <br><br>
-      <h1>Get in touch</h1>
-      <a href="mailto:thaisna46@gmail.com" title="Gmail">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thaisna46@gmail.com" alt="Gmail"/></a>
-      <a href="https://www.linkedin.com/in/thais-nara/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/thais-nara/)" alt="LinkedIn"/></a>
+      <h1 align="center">Get in touch</h1>
+      <a align="center" href="mailto:thaisna46@gmail.com" title="Gmail">
+      <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thaisna46@gmail.com" alt="Gmail"/></a>
+      <a align="center" href="https://www.linkedin.com/in/thais-nara/" title="LinkedIn">
+      <img align="center" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-nara/)" alt="LinkedIn"/></a>
 </p>
 
 
