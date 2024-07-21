@@ -15,7 +15,7 @@
       <strong>Programming | Physics | Games</strong><br>
       I'm a woman from Ceará, Brazil.<br>
       I'm a computer scientist.<br>
-      I am an anime lover.
+      And I'm an anime lover.
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
         
 </p>
