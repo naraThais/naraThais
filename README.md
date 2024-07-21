@@ -10,23 +10,16 @@
   A software developer and systems analyst passionate about exploring innovations and creating solutions that add value and efficiency. Currently, I work as a Consultant at Vilt, where I design and implement solutions that automate processes, reduce manual effort, and enhance operational efficiency. Previously, I worked at one of the largest footwear companies in Latin America, where I gained extensive experience in various technologies and development methodologies.
 </p>
 <br><br>
-<table style="border-collapse: collapse; width: 150px;">
-  <tr>
-    <td style="border: none; padding: 0; vertical-align: middle;">
-      <img src="https://github.com/user-attachments/assets/0d71bfac-7107-437a-9784-7071930a39c1" style="height: 221px; "/>
-    </td>
-    <td style="border: none; padding: 0; vertical-align: middle;">
+<p>
+      <img src="https://github.com/user-attachments/assets/0d71bfac-7107-437a-9784-7071930a39c1" width="200" alt="hello!" align="left" "/>
       <strong>Programming | Physics | Games</strong><br>
       I'm a woman from Ceará, Brazil.<br>
       I'm a computer scientist.<br>
       I am an anime lover.
-    </td>
-  </tr>
-</table>
-
-
-
-
+</p>
+<br><br>
+<details>
+    <summary><strong>Learn More</strong></summary>
   <p align="right" >
       <br><br>
       <h1>Get in touch</h1>
