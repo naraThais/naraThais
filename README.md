@@ -63,7 +63,7 @@
         <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraThais&layout=compact&hide_border=true&title_color=9F78F1&text_color=9F78F1&bg_color=0d1117" />
         <br><br>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=c790f1&line=8d65c5&point=e0d5e2&area=true&hide_border=true" alt="Ashutosh's github activity graph" />
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=c790f1&line=8d65c5&point=e0d5e2&area=true&hide_border=true" alt="Nara's github activity graph" />
         <br><br>
         <img justify-content="center" src="https://github-profile-trophy.vercel.app/?username=naraThais&no-bg=true&margin-w=20&theme=discord&no-frame=true" />
         </a>
