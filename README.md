@@ -16,6 +16,8 @@
       I'm a woman from Ceará, Brazil.<br>
       I'm a computer scientist.<br>
       I am an anime lover.
+    <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
+        
 </p>
 <br><br>
 <details>
