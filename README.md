@@ -4,7 +4,7 @@
     <img hight="400" width="40%" align="right" src="https://github.com/user-attachments/assets/4c72e978-1d78-4329-96bf-6959afe9c109" />
     <br><br>
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=90&duration=4000&pause=300&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1300&height=170&lines=Hello,+I+am+Thais+Nara+👩🏻‍🚀😊;" 
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=90&duration=4000&pause=300&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1300&height=170&lines=Hello,+I+am+Thais+Nara+👩🏻‍🚀😊;" 
   style="width: 50%; display: block; text-align: left;" 
   alt="Dynamic SVG Text">
         <br>
