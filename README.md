@@ -14,7 +14,7 @@
 </p>
 <br>
 <p>
-      <img src="https://github.com/user-attachments/assets/0d71bfac-7107-437a-9784-7071930a39c1" width="200" alt="hello!" align="left" "/>
+      <img src="https://github.com/user-attachments/assets/euia" width="200" alt="hello!" align="left" "/>
       <strong>Programming | Physics | Games</strong><br>
       I'm a woman from Ceará, Brazil.<br>
       I'm a computer scientist.<br>
