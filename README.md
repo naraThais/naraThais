@@ -8,6 +8,7 @@
   style="width: 50%; display: block; text-align: left;" 
   alt="Dynamic SVG Text">
         <br>
+        
 </p>
  <p align="left">
   A software developer and systems analyst passionate about exploring innovations and creating solutions that add value and efficiency. Currently, I work as a Consultant at Vilt, where I design and implement solutions that automate processes, reduce manual effort, and enhance operational efficiency. Previously, I worked at one of the largest footwear companies in Latin America, where I gained extensive experience in various technologies and development methodologies.
