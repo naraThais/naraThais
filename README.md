@@ -2,7 +2,7 @@
 <p>
 </br>
     <img hight="400" width="40%" align="right" src="https://github.com/user-attachments/assets/4c72e978-1d78-4329-96bf-6959afe9c109" />
-    <br><br>
+  
 
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=90&pause=300&color=B49BFF&vCenter=true&width=500&height=90&lines=Thais+Nara+." alt="Typing SVG" /></a>
