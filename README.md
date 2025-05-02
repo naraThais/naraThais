@@ -5,7 +5,7 @@
   
 
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=90&pause=300&color=B49BFF&vCenter=true&width=500&height=90&lines=Thais+Nara+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&pause=300&color=B49BFF&vCenter=true&width=500&height=90&lines=Thais+Nara" alt="Typing SVG" /></a>
         <br>
         
 </p>
