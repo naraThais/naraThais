@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&reversal=false&textBg=false"/>
 <p>
-</br>
+<br>
     <img hight="400" width="40%" align="right" src="https://github.com/user-attachments/assets/4c72e978-1d78-4329-96bf-6959afe9c109" />
   
 
