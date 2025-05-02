@@ -2,7 +2,11 @@
 <p>
 <br>
     <img hight="40" width="40%" align="right" src="https://github.com/user-attachments/assets/4c72e978-1d78-4329-96bf-6959afe9c109" />
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&pause=300&color=B49BFF&width=500&height=100&lines=Thais+Nara" alt="Typing SVG" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=90&duration=4000&pause=300&color=b49bff&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=1300&height=195&lines=Hello,+I+am+Thais+Nara+👩🏻‍🚀😊;" 
+   style="width: 50%; display: block; text-align: left;" 
+   alt="Dynamic SVG Text">
+         <br>
 </p>
  <p align="left">
   A software developer and systems analyst passionate about exploring innovations and creating solutions that add value and efficiency. Currently, I work as a Consultant at Vilt, where I design and implement solutions that automate processes, reduce manual effort, and enhance operational efficiency. Previously, I worked at one of the largest footwear companies in Latin America, where I gained extensive experience in various technologies and development methodologies.
