@@ -10,10 +10,10 @@
 <br>
 <p>
       <img src="https://github.com/naraThais/naraThais/blob/main/assets/euia.jpg" width="200" alt="hello!" align="left" "/>
-      <strong>Programming | Physics | Games</strong><br>
-      I'm a woman from Ceará, Brazil.<br>
-      I'm a computer scientist.<br>
-      And I'm an anime lover.
+      <strong>Trabalhos recentes..</strong><br>
+      t1<br>
+      t2<br>
+      t3
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
         
 </p>
