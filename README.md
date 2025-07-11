@@ -11,8 +11,7 @@
 <p>
       <img src="https://github.com/naraThais/naraThais/blob/main/assets/euia.jpg" width="200" alt="hello!" align="left" "/>
       <strong>Recent work:</strong><br>
-    <a href="https://bit.ly/4nEeB3m" color="#b999f1">
-Architect Portfolio</a><br>
+    ![Static Badge](https://img.shields.io/badge/Architect%20Portfolio-8A2BE2?link=https%3A%2F%2Fbit.ly%2F4nEeB3m)<br>
       t2<br>
       t3
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
