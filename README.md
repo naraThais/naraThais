@@ -10,7 +10,7 @@
 <br>
 <p>
       <img src="https://github.com/naraThais/naraThais/blob/main/assets/euia.jpg" width="200" alt="hello!" align="left" "/>
-      <strong>Trabalhos recentes..</strong><br>
+      <strong>Recent work:</strong><br>
     <a href="https://bit.ly/4nEeB3m" color="#b999f1">
   Portfolio Arquiteta
 </a><br>
