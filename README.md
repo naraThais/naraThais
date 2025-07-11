@@ -11,7 +11,7 @@
 <p>
       <img src="https://github.com/naraThais/naraThais/blob/main/assets/euia.jpg" width="200" alt="hello!" align="left" "/>
       <strong>Trabalhos recentes..</strong><br>
-      t1<br>
+      <a href="https://bit.ly/4nEeB3m" target="_blank">Portfolio Arquiteta</a><br>
       t2<br>
       t3
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
