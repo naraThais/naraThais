@@ -17,6 +17,9 @@
   <a href="https://bit.ly/40RnzQL" color="#b999f1">
   Coffee Menu
 </a><br>
+   <a href="https://lanadelreyblog.vercel.app" color="#b999f1">
+  Lana del Rey Blog
+</a><br>
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
         
 </p>
