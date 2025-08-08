@@ -20,6 +20,8 @@
    <a href="https://lanadelreyblog.vercel.app" color="#b999f1">
   Lana del Rey Blog
 </a><br>
+  <a href="https://cocktails-opal.vercel.app" color="#b999f1">
+Gsap cocktails pAGE </a><br>
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
         
 </p>
