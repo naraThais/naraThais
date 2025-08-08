@@ -21,7 +21,7 @@
   Lana del Rey Blog
 </a><br>
   <a href="https://cocktails-opal.vercel.app" color="#b999f1">
-Gsap cocktails pAGE </a><br>
+Gsap cocktails page </a><br>
     <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
         
 </p>
