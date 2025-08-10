@@ -32,37 +32,37 @@ Gsap cocktails page </a><br>
       <h1>Knowledges</h1>
     <br><br>
     <div align="center">
-        <img src="https://img.shields.io/badge/-Intellij-0D1117?style=flat&logo=intellij-idea&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code&labelColor=0D1117" /> 
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&labelColor=0D1117" />
-        <img src="hhttps://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Puppet-0D1117?style=for-the-badge&logo=puppet&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" />
-        <br><br>
-    </div>
+    <img src="https://img.shields.io/badge/-Intellij-B49BFF?style=flat&logo=intellij-idea&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-B49BFF?style=flat&logo=visual-studio-code&labelColor=B49BFF" /> 
+    <img src="https://img.shields.io/badge/GitHub-B49BFF?style=for-the-badge&logo=github&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/GitLab-B49BFF?style=for-the-badge&logo=gitlab&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/-Git-B49BFF?style=for-the-badge&logo=git&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/C-B49BFF?style=for-the-badge&logo=c&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Java-B49BFF?style=for-the-badge&logo=java&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Spring-B49BFF?style=for-the-badge&logo=spring&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Python-B49BFF?style=for-the-badge&logo=python&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/C%23-B49BFF?style=for-the-badge&logo=c-sharp&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/.NET-B49BFF?style=for-the-badge&logo=.net&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/JavaScript-B49BFF?style=for-the-badge&logo=javascript&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Node.js-B49BFF?style=for-the-badge&logo=node.js&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/TypeScript-B49BFF?style=for-the-badge&logo=typescript&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/-React.js-B49BFF?style=for-the-badge&logo=react&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-B49BFF?style=for-the-badge&logo=tailwind-css&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/jQuery-B49BFF?style=for-the-badge&logo=jquery&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/MySQL-B49BFF?style=for-the-badge&logo=mysql&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/PostgreSQL-B49BFF?style=for-the-badge&logo=postgresql&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/MongoDB-B49BFF?style=for-the-badge&logo=mongodb&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/SQLite-B49BFF?style=for-the-badge&logo=sqlite&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-B49BFF?style=for-the-badge&logo=amazon-aws&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Google_Cloud-B49BFF?style=for-the-badge&logo=google-cloud&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-B49BFF?style=for-the-badge&logo=microsoft-sql-server&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Docker-B49BFF?style=for-the-badge&logo=docker&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Puppet-B49BFF?style=for-the-badge&logo=puppet&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Terraform-B49BFF?style=for-the-badge&logo=terraform&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Windows-B49BFF?style=for-the-badge&logo=windows&labelColor=B49BFF" />
+    <img src="https://img.shields.io/badge/Linux-B49BFF?style=for-the-badge&logo=linux&labelColor=B49BFF" />
+    <br><br>
+</div>
     <div align="center">
         <h1> My github Stats</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=naraThais&show_icons=true&count_private=true&hide_border=true&title_color=9F78F1&icon_color=9F78F1&text_color=fff&bg_color=0d1117&align=left" alt="Thais Nara github stats"/>
