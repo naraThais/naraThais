@@ -32,8 +32,6 @@ Gsap cocktails page </a><br>
       <h1>Knowledges</h1>
     <br><br>
     <div align="center">
-    <img src="https://img.shields.io/badge/-Intellij-B49BFF?style=flat&logo=intellij-idea&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-B49BFF?style=flat&logo=visual-studio-code&labelColor=B49BFF" /> 
     <img src="https://img.shields.io/badge/GitHub-B49BFF?style=for-the-badge&logo=github&labelColor=B49BFF" />
     <img src="https://img.shields.io/badge/GitLab-B49BFF?style=for-the-badge&logo=gitlab&labelColor=B49BFF" />
     <img src="https://img.shields.io/badge/-Git-B49BFF?style=for-the-badge&logo=git&labelColor=B49BFF" />
