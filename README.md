@@ -1,77 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&reversal=false&textBg=false"/>
-<p>
-  <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&pause=300&color=B49BFF&vCenter=true&width=500&height=90&lines=Hi,+I'm+Nara+." alt="Typing SVG" />
-  </a>
-</p>
- <p align="left">
-  A software developer and systems analyst passionate about exploring innovations and creating solutions that add value and efficiency. Currently, I work as a Consultant at Vilt, where I design and implement solutions that automate processes, reduce manual effort, and enhance operational efficiency. Previously, I worked at one of the largest footwear companies in Latin America, where I gained extensive experience in various technologies and development methodologies.
-</p>
-<br>
-<p>
-      <img src="https://github.com/naraThais/naraThais/blob/main/assets/euia.jpg" width="200" alt="hello!" align="left" "/>
-    <strong>Recent work:</strong><br>
-    <a href="https://bit.ly/4nEeB3m" color="#b999f1">
-  Architect Portfolio
-</a><br>
-  <a href="https://bit.ly/40RnzQL" color="#b999f1">
-  Coffee Menu
-</a><br>
-   <a href="https://lanadelreyblog.vercel.app" color="#b999f1">
-  Lana del Rey Blog
-</a><br>
-  <a href="https://cocktails-opal.vercel.app" color="#b999f1">
-Gsap cocktails page </a><br>
-    <br><br>✮⋆｡💜✧˖°⋆˚✿˖°
-        
-</p>
-<br><br><br><br>
-<details>
-         <br><br>
-    <summary><strong>Learn More</strong></summary>
-      <h1>Knowledges</h1>
-    <br><br>
-    <div align="center">
-    <img src="https://img.shields.io/badge/GitHub-B49BFF?style=for-the-badge&logo=github&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/GitLab-B49BFF?style=for-the-badge&logo=gitlab&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/-Git-B49BFF?style=for-the-badge&logo=git&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/C-B49BFF?style=for-the-badge&logo=c&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Java-B49BFF?style=for-the-badge&logo=java&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Spring-B49BFF?style=for-the-badge&logo=spring&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Python-B49BFF?style=for-the-badge&logo=python&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/C%23-B49BFF?style=for-the-badge&logo=c-sharp&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/.NET-B49BFF?style=for-the-badge&logo=.net&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/JavaScript-B49BFF?style=for-the-badge&logo=javascript&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Node.js-B49BFF?style=for-the-badge&logo=node.js&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/TypeScript-B49BFF?style=for-the-badge&logo=typescript&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/-React.js-B49BFF?style=for-the-badge&logo=react&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-B49BFF?style=for-the-badge&logo=tailwind-css&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/jQuery-B49BFF?style=for-the-badge&logo=jquery&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/MySQL-B49BFF?style=for-the-badge&logo=mysql&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/PostgreSQL-B49BFF?style=for-the-badge&logo=postgresql&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/MongoDB-B49BFF?style=for-the-badge&logo=mongodb&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/SQLite-B49BFF?style=for-the-badge&logo=sqlite&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-B49BFF?style=for-the-badge&logo=amazon-aws&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Google_Cloud-B49BFF?style=for-the-badge&logo=google-cloud&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-B49BFF?style=for-the-badge&logo=microsoft-sql-server&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Docker-B49BFF?style=for-the-badge&logo=docker&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Puppet-B49BFF?style=for-the-badge&logo=puppet&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Terraform-B49BFF?style=for-the-badge&logo=terraform&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Windows-B49BFF?style=for-the-badge&logo=windows&labelColor=B49BFF" />
-    <img src="https://img.shields.io/badge/Linux-B49BFF?style=for-the-badge&logo=linux&labelColor=B49BFF" />
-    <br><br>
+# Hello, I'm Nara!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B49BFF&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Analyst;Innovation+Explorer;Solution+Creator" alt="Typing SVG" />
 </div>
-    <div align="center">
-        <h1> My github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=naraThais&show_icons=true&count_private=true&hide_border=true&title_color=9F78F1&icon_color=9F78F1&text_color=fff&bg_color=0d1117&align=left" alt="Thais Nara github stats"/>
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraThais&layout=compact&hide_border=true&title_color=9F78F1&text_color=9F78F1&bg_color=0d1117" />
-        <br><br>
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=9F78F1&line=9B87C4&point=e0d5e2&area=true&hide_border=true" alt="Nara's github activity graph" />
-        <br><br>
-        <img justify-content="center" src="https://github-profile-trophy.vercel.app/?username=naraThais&no-bg=true&margin-w=20&theme=discord&no-frame=true" />
-        </a>
-    </div>
 
+## About Me
 
+I am a passionate software developer and systems analyst dedicated to exploring innovations and creating solutions that add value and efficiency. Most recently worked as a **Technical Consultant at Adobe**, where I designed and implemented solutions that:
 
+- Automate complex processes
+- Reduce manual effort significantly  
+- Enhance operational efficiency
+- Deliver measurable business value
+
+## Recent Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### **Architect Portfolio**
+A modern portfolio showcasing architectural designs with clean aesthetics and smooth interactions.<br>
+[![Visit Site](https://img.shields.io/badge/Visit-Site-000000?style=for-the-badge)](https://bit.ly/4nEeB3m)
+
+### **Coffee Menu**
+Interactive coffee menu with beautiful animations and responsive design.<br>
+[![Visit Site](https://img.shields.io/badge/Visit-Site-000000?style=for-the-badge)](https://bit.ly/40RnzQL)
+
+</td>
+<td width="50%">
+
+### **Lana del Rey Blog**
+A stylish blog dedicated to the artist with immersive user experience.<br>
+[![Visit Site](https://img.shields.io/badge/Visit-Site-000000?style=for-the-badge)](https://lanadelreyblog.vercel.app)
+
+### **GSAP Cocktails Page**
+Dynamic cocktails showcase featuring advanced GSAP animations.<br>
+[![Visit Site](https://img.shields.io/badge/Visit-Site-000000?style=for-the-badge)](https://cocktails-opal.vercel.app)
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+### **Languages & Frameworks**
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+### **Backend & Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
+
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppet-000000?style=for-the-badge&logo=puppet&logoColor=white" />
+</div>
+
+### **Version Control & OS**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naraThais&show_icons=true&count_private=true&hide_border=true&title_color=9F78F1&icon_color=B49BFF&text_color=ffffff&bg_color=0d1117" alt="Nara's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraThais&layout=compact&hide_border=true&title_color=9F78F1&text_color=B49BFF&bg_color=0d1117" alt="Nara's most used languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=9F78F1&line=B49BFF&point=ffffff&area=true&hide_border=true" alt="Nara's contribution graph" />
+</div>
+
+## Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naraThais&color=000000&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</div>
+
+## Let's Connect!
+
+<div align="center">
+  
+  **Feel free to reach out for collaborations, discussions about technology, or just to say hello!**
+  
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>"Innovation is not about saying yes to everything. It's about saying no to all but the most crucial features." - Steve Jobs</i>
+</div>
