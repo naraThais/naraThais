@@ -1,7 +1,7 @@
 # Hello, I'm Nara!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B49BFF&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Analyst;Innovation+Explorer;Solution+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Analyst;Innovation+Explorer;Solution+Creator" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -86,17 +86,6 @@ Dynamic cocktails showcase featuring advanced GSAP animations.<br>
   <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naraThais&show_icons=true&count_private=true&hide_border=true&title_color=9F78F1&icon_color=B49BFF&text_color=ffffff&bg_color=0d1117" alt="Nara's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraThais&layout=compact&hide_border=true&title_color=9F78F1&text_color=B49BFF&bg_color=0d1117" alt="Nara's most used languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naraThais&bg_color=0d1117&color=9F78F1&line=B49BFF&point=ffffff&area=true&hide_border=true" alt="Nara's contribution graph" />
 </div>
 
 ## Profile Views
