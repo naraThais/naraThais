@@ -94,17 +94,6 @@ Dynamic cocktails showcase featuring advanced GSAP animations.<br>
   <img src="https://komarev.com/ghpvc/?username=naraThais&color=000000&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
-## Let's Connect!
-
-<div align="center">
-  
-  **Feel free to reach out for collaborations, discussions about technology, or just to say hello!**
-  
-  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-  
-</div>
 
 ---
 
