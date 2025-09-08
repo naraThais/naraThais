@@ -46,6 +46,10 @@ I have experience as:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SPA-FF6F61?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Informatica_Cloud-0078D4?style=for-the-badge&logo=informatica&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-8A2BE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA?&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELT-FF8C00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA?&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-00CED1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA?&logoColor=white" />
 </div>
 <br>
 <br>
