@@ -1,22 +1,6 @@
 # Hello, I'm Nara
 
-<div align="left">
-
-<a href="mailto:thaisna46@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/thais-nara">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-</div>  
-
-Software Developer & Data Engineer
+Software Developer & Data Engineer<br>
 Passionate about technology, building efficient solutions, and creating real business impact.  
 
 I have experience as:  
