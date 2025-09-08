@@ -6,7 +6,7 @@ Passionate about technology, building efficient solutions, and creating real bus
 I have experience as:  
 - **Systems Analyst & Data Engineer** at Grendene SA  
 - **Technical Consultant** at Adobe  
-- **Software Developer** on the **Sebrae Portal**, the second largest website in Brazil  
+- **Software Developer** on the **Sebrae Portal**, the second largest website in the world in the entrepreneurship field
 
 ### Highlights
 - ✅ Designed and implemented automated processes  
