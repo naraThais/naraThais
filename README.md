@@ -16,14 +16,19 @@
 
 </div>  
 
-Software Developer & Systems Analyst  
-Passionate about technology, innovation, and building solutions that optimize processes, reduce manual effort, and deliver real business value.  
+Software Developer & Data Engineer
+Passionate about technology, building efficient solutions, and creating real business impact.  
 
-Most recently, I worked as a **Technical Consultant at Adobe**, where I designed and implemented solutions that:  
-- Automated complex processes  
-- Significantly reduced manual effort  
-- Improved operational efficiency  
-- Delivered measurable business value  
+I have experience as:  
+- **Systems Analyst & Data Engineer** at Grendene SA  
+- **Technical Consultant** at Adobe  
+- **Software Developer** on the **Sebrae Portal**, the second largest website in Brazil  
+
+### Highlights
+- ✅ Designed and implemented automated processes  
+- ✅ Reduced manual effort significantly  
+- ✅ Improved operational efficiency  
+- ✅ Delivered measurable business value
 
 ---
 
