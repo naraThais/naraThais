@@ -14,16 +14,6 @@ I have experience as:
 - ✅ Improved operational efficiency  
 - ✅ Delivered measurable business value
 
----
-
-## Recent Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Architect Portfolio** | Modern portfolio showcasing architectural designs with clean aesthetics and smooth interactions. | [Visit](https://bit.ly/4nEeB3m) |
-| **Coffee Menu** | Interactive coffee menu with animations and responsive design. | [Visit](https://bit.ly/40RnzQL) |
-| **Lana del Rey Blog** | Stylish blog dedicated to the artist with immersive user experience. | [Visit](https://lanadelreyblog.vercel.app) |
-| **GSAP Cocktails Page** | Dynamic cocktails showcase featuring advanced GSAP animations. | [Visit](https://cocktails-opal.vercel.app) |
 
 ---
 
